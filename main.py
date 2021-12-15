@@ -1,3 +1,3 @@
-def topFivemovies(a,b,c,d,e):
+def topfivemovies(a,b,c,d,e):
     return a + "b" + "c" + "d" + "e"
-topFivemovies("thor", "Iron man", "Hulk", "Spider Man", "Doctor Strange")
+topfivemovies("thor", "Iron man", "Hulk", "Spider Man", "Doctor Strange")
